@@ -1,9 +1,8 @@
+function App(props) {
 
-function App() {
-  return (
     <>
     </>
-  );
+  ;
 }
 
 export default App;
