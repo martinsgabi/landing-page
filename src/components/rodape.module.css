@@ -1,0 +1,23 @@
+.Rodape{
+    list-style: none;
+    background-color: rgba(213, 171, 145, 0.942);
+    display: flex;
+    text-decoration: none;
+    align-items: center;
+    width: 100%;
+    height: 150px;
+    justify-content: center;
+    margin-top: 20px;
+}
+.cx1{
+  
+    width: 50%;
+}
+.cx2{
+    
+    width: 35%;
+}
+.cx3{
+
+    width: 15%;
+}

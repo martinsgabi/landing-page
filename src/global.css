@@ -1,0 +1,14 @@
+body,img, figure, ul, li, h1, h2, a, div, section{   
+    margin-top: 0;
+    margin: 0;
+    padding: 0;
+    border: 0;
+    text-decoration: none;
+   
+}
+body{
+    background-image: url(components/imgdefundo.png);
+    background-repeat: no-repeat, repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}

@@ -1,0 +1,38 @@
+.Flex{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.Caixa1{
+    width: 50%;
+    height: 600px;
+    margin-top: 20px;
+}
+.Caixa2{
+    margin-top: 20px;
+    width: 50%;
+    height: 600px;
+}
+.bloco1{
+    width: 80%;
+    height: 50%;
+    background-color: #c6987b9a;
+    color: #461B05;
+    border-radius: 5px; 
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 3rem 3rem;
+}
+.bloco2{
+    width: 80%;
+    height: 50%;
+    background-color: #c6987b9a;
+    color: #461B05;
+    border-radius: 5px; 
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    padding: 3rem 3rem;
+}
+.Corpo{
+    display: block;
+    align-items: center;
+    margin-left: 20px;
+}
